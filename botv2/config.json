@@ -1,0 +1,16 @@
+{
+    "token": "Mzc3NTYzNzE1NjE0MDE1NDg5.DOO5nQ.TWX-9lJjAd1-OibdGX7z-MuRXU8",
+    "prefix": "!",
+    "messages": {
+        "welcome": "Salut toi, bienvenue bla bla bla",
+        "moderate": "La publicité n'est pas autorisée dans ce channel.",
+		"bad_entry": "Le caractère } n'est pas pris en compte. Réessayer sans",
+		"successful_entry": "Ta chaine a été rajoutée"
+    },
+    "twitch": {
+        "clientId": "wjhv3b2zg2sc51s1qj9a6emuy8le7s",
+        "clientSecret": "lcmvmtdyjlv42d1wvmje7e4sd9u6hd",
+        "token": "myro989meuvj0gnhgihd5uwtenxfso",
+        "channel": "petitsstreamstv"
+    }
+}

@@ -1,0 +1,28 @@
+Salut et bienvenue à toi sur le serveur Discord SoutienPetitsStreams! Si tu es streamer et tu cherches à gagner en visibilité, alors tu es au bon endroit! :)
+
+Laisse-moi tout d’abord te présenter le serveur en quelques mots. Ce dernier est divisé en 8 sous-catégories :
+
+	1. Informations (règlement du serveur et channel support si tu as besoin d’aide)
+	2. Accueil (accueil des nouveaux membres, présentations et discussions générales)
+	3. SoutienPetitsStreams (pour savoir ce que la structure peut faire pour que tu gagnes en visibilité)
+	4. Publicité (tu peux y faire ta pub pour tes chaînes Twitch et Youtube ; pour avoir une *annonce automatisée de tes lives*, il te suffit de mettre une seule fois le lien de ta chaîne dans le channel #liens_bot)
+	5. La PetitsStreamsTV (informations concernant cette Web TV faite par et pour des petits streamers)
+	6. Stream (deux salons vocaux mis à disposition pour tes lives)
+	7. Jeux (salons vocaux à disposition pour que tu puisses discuter durant tes parties)
+	8. Staff (section réservée aux modérateurs et à la direction du serveur)
+
+Ensuite, pour plus d’informations je t’invite à consulter le salon #guide_serveur, dans lequel tu trouveras toutes les informations détaillées concernant ce serveur.
+Il est aussi important pour toi de savoir qu’il y a des règles qui ont été mises en place et qu’il faut donc les respecter pour le bon fonctionnement du serveur. Tu peux retrouver ces règles dans #reglement :
+
+Respecter les thèmes des channels créés (__éviter le hors sujet__)
+
+	Pas de discrimination
+	Pas d’insultes
+	Pas de sujet polémique
+	Pas de spam
+	Pas de multi-comptes
+	Pas d’abus des commandes @everyone et @here
+
+Si tu as d’autres questions, n’hésite pas à contacter les modérateurs du serveur, on te répondra avec plaisir ! Encore bienvenue à toi et je te souhaite de bien t’amuser !
+
+							- _le Bot_
