@@ -11,7 +11,13 @@
     "mocha": "^2.4.5",
     "mongodb": "^2.1.16",
     "morgan": "^1.7.0",
-    "object-assign":"4.1.0"
+    "object-assign":"4.1.0",
+    "axios": "^0.17.1",
+    "discord.js": "^11.2.1",
+    "file-api": "^0.10.4",
+    "fs-extra": "^4.0.3",
+    "twitch-helix": "^1.0.7",
+    "twitch-helix-api": "^1.0.1"
   },
   "engine": {
     "node": "*",
